@@ -1,6 +1,6 @@
 # tfridge - Keep your Terraform dependencies fresh !
 
-![tfridge logo](img/logo.png)
+![tfridge logo](docs/img/logo.png)
 
 
 # Introduction
